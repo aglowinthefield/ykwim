@@ -1,3 +1,7 @@
+> **Moved.** This skill now lives in [aglowinthefield/skills](https://github.com/aglowinthefield/skills). This repo is archived.
+>
+> `npx skills add aglowinthefield/skills -g --skill ykwim`
+
 # ykwim
 
 An agent skill for confirming understanding before any work starts. End a request with "ykwim?", "you know what I mean?", "kwim?" or similar, and the agent restates what it thinks you're asking, lists anything ambiguous with a recommended answer for each, and waits for your go-ahead.
